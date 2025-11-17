@@ -1,0 +1,15 @@
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/bin/Debug/net8.0/MisterChurras.Calculator
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/bin/Debug/net8.0/MisterChurras.Calculator.deps.json
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/bin/Debug/net8.0/MisterChurras.Calculator.runtimeconfig.json
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/bin/Debug/net8.0/MisterChurras.Calculator.dll
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/bin/Debug/net8.0/MisterChurras.Calculator.pdb
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/MisterChurras.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/MisterChurras.Calculator.AssemblyInfoInputs.cache
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/MisterChurras.Calculator.AssemblyInfo.cs
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/MisterChurras.Calculator.csproj.CoreCompileInputs.cache
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/MisterChurras.Calculator.sourcelink.json
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/MisterChurras.Calculator.dll
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/refint/MisterChurras.Calculator.dll
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/MisterChurras.Calculator.pdb
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/MisterChurras.Calculator.genruntimeconfig.cache
+/workspaces/Aprendizado_Back/MisterChurras.Calculator/obj/Debug/net8.0/ref/MisterChurras.Calculator.dll
